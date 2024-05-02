@@ -6,5 +6,5 @@
 
 Simply run the notebooks and look at the comments i've attached to each part
 
-# additional resources
+## additional resources
 the series can be found at andrej karpathy youtube channel
